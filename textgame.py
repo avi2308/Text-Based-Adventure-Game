@@ -1,29 +1,5 @@
 answer_yes = ["Yes", "Y", "yes", "y"]
 answer_no = ["No", "N", "no", "n"]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("""
 WELCOME! LET'S START THE ADVENTURE
 
